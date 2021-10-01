@@ -1,0 +1,39 @@
+input[type=button] 
+{
+
+font-weight: bold;
+padding: 14px 20px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 20px;
+margin: 4px 4px;
+cursor: pointer;
+box-shadow: 3px 3px 3px rgb(73, 219, 183);
+}
+input[type=button]:hover{
+    background-color: rgb(219, 125, 177);
+border: none;
+color: rgb(255, 255, 255);
+}
+
+input[type="text"]
+{
+border: solid;
+color: rgb(175, 72, 235);
+padding: 15px 32;
+text-align: right;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 4px 2px;
+cursor: pointer;
+width: 98%;
+box-shadow: 3px 3px 3px rgb(160, 22, 22);
+}
+
+table 
+{
+background-color: #000000;
+padding: 15px 25px;
+}
